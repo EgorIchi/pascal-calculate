@@ -1,4 +1,4 @@
-### Application Calculate;
+### Application Calculate
 
 ## Function:
 1. Counting prime numbers
